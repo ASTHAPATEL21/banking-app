@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "66324fae2be1b45a33b8b20f"
+  },
+  "branchId": "12345",
+  "city": "New York",
+  "address": "Liberty avenue"
+},
+{
+  "_id": {
+    "$oid": "66324fae2be1b45a33b8b20e"
+  },
+  "branchId": "1",
+  "city": "New Jersey",
+  "address": "Liberty avenue"
+}
+]

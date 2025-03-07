@@ -1,0 +1,33 @@
+[{
+  "customerId": "13",
+  "name": "omer",
+  "address": "12",
+  "phoneNumber": "03123234456",
+  "email": "omer@gmail.com",
+  "password": "$2a$10$RD/CGWwKx3UxLcqHBf8Rj.3KC7jwlOEQH9PTJsIn0AwDMU0An/nVe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663913352d6ff2daba7b638d"
+  },
+  "customerId": "Astha21",
+  "name": "Astha Patel",
+  "address": "105",
+  "phoneNumber": "8622977736",
+  "email": "apatel11@manhattan.edu",
+  "password": "$2a$10$q7ja8uo1xWKAL8CDg0JMYOHGsUSjkGfBE4nIFsLjGb0R7SDrSzSzq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66391c18c6f12f15b58c1096"
+  },
+  "customerId": "Mona123",
+  "name": "Monali",
+  "address": "new york",
+  "phoneNumber": "2134511234",
+  "email": "m@gmail.com",
+  "password": "$2a$10$NUzgfr9YaaparG9PaRX33usq5APTWqPXGnWnhgjiBtL1ITe4SRPsS",
+  "__v": 0
+}]

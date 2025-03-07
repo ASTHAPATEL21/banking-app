@@ -1,0 +1,24 @@
+[{
+  "accountId": "98765",
+  "customerId": {
+    "$oid": "663913352d6ff2daba7b638d"
+  },
+  "coOwners": [],
+  "branchId": "66324fae2be1b45a33b8b20f",
+  "balance": 49601210,
+  "transactions": [
+  ],
+  "__v": 9
+},
+{
+  "accountId": "123",
+  "customerId": {
+    "$oid": "66391c18c6f12f15b58c1096"
+  },
+  "coOwners": [],
+  "branchId": "66324fae2be1b45a33b8b20e",
+  "balance": 4960121,
+  "transactions": [
+  ],
+  "__v": 9
+}]
